@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Kayla�
+I'm a experienced Program Manager and Data Analyst passionate about Health IT�
 
 <!--
 **kreid191814/kreid191814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
