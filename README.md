@@ -1,6 +1,8 @@
 ## Hi there, I'm Kayla�
 I'm a experienced Program Manager and Data Analyst passionate about Health IT�
 
+Im currently working on a major EHR Implementation project with Oracle Health
+I have previously worked on a project with the Center for Medicaid & Medicare services utilizing AWS Cloud Infrastructure
 <!--
 **kreid191814/kreid191814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
