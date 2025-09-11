@@ -1,4 +1,4 @@
-## Hi there, I'm Kayla� 👩🏿‍💻 Health IT enthusiast | Bridging healthcare & technology
+## Hi there, I'm Kayla 👋 👩🏿‍💻 Health IT enthusiast | Bridging healthcare & technology
 
 <div align="center">
   <img src="https://github.com/kreid191814/kreid191814/blob/main/Shutterstock_2603055635-3.png?raw=true" width="300" />
