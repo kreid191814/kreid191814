@@ -13,6 +13,8 @@ I'm a experienced Program Manager and Senior Data Analyst passionate about Healt
 
 <img src="https://img.icons8.com/ios-filled/50/salesforce.png" alt="Salesforce" width="40"/> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40"/> <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" width="40"/>
 
+## PROJECTS
+
 
 
 
