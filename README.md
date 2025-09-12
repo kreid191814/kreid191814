@@ -1,5 +1,5 @@
 ## ABOUT ME
-Hi there, I'm Kayla 👋 👩🏿‍💻 Health IT Enthusiast | Bridging Healthcare & Technology 
+Hi there, I'm Kayla 👋🏿 👩🏿‍💻 Health IT Enthusiast | Bridging Healthcare & Technology 
 <p align="center">
   <img src="Shutterstock_2603055635-2.png" width="400" />
 </p>
