@@ -17,17 +17,16 @@ Qualified Health Plan Enrollment Experience Survey
 
 ## TOOLS I USE
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40"/> 
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-
-<img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40"/> 
-
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40"/> 
-
-<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>
+<div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; max-width: 180px; margin: auto;">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="40" />
+  
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40" />
+  
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" />
+</div>
 
 
 
