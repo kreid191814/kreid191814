@@ -10,9 +10,8 @@ PATH EHR
   -[path ehr](https://github.com/kreid191814/path-ehr-)
 
 Qualified Health Plan Enrollment Experience Survey
-  -[
+  -[cms-qhp-survey-project](https://github.com/kreid191814/cms-qhp-survey-project)
 
-  
 ## TOOLS I USE
 
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40"/> ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
