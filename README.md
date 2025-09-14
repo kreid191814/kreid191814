@@ -13,10 +13,14 @@ Practice Improvement and Measures Management Support (PIMMS)
   -[pimms_project](https://github.com/kreid191814/pimms_project)
 
 Qualified Health Plan Enrollment Experience Survey  
-  -[cms-qhp-survey-project](https://github.com/kreid191814/cms-qhp-survey-project)
+  -[cms-qhp-survey-project](https://github.com/kreid191814/cms-qhp-survey-project)   
+Visit the live project at: [https://qhpsurvey.cms.gov](https://qhpsurvey.cms.gov)
 
 Vaccine Or Test  
   -[Vaccine_Or_Test-Project](https://github.com/kreid191814/Vaccine_Or_Test-Project)  
+  - NYC Vaccine Mandate News:  
+  [PBS Article](https://www.pbs.org/newshour/nation/nyc-will-require-covid-19-vaccines-or-weekly-testing-for-city-workers)
+
 
 ## TOOLS I USE
 <div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; max-width: 180px; margin: auto;">
