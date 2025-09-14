@@ -7,9 +7,10 @@ I'm a experienced Program Manager and Senior Data Analyst passionate about Healt
 
 ## PROJECTS
 PATH EHR 
--kreid191814/path-ehr-
+  -[path ehr](https://github.com/kreid191814/path-ehr-)
 
 Qualified Health Plan Enrollment Experience Survey
+  -[
 
   
 ## TOOLS I USE
