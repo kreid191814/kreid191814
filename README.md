@@ -18,8 +18,8 @@ Visit the live project at: [https://qhpsurvey.cms.gov](https://qhpsurvey.cms.gov
 
 Vaccine Or Test  
   -[Vaccine_Or_Test-Project](https://github.com/kreid191814/Vaccine_Or_Test-Project)  
-  - NYC Vaccine Mandate News:  
-  [PBS Article](https://www.pbs.org/newshour/nation/nyc-will-require-covid-19-vaccines-or-weekly-testing-for-city-workers)
+  NYC Vaccine Mandate News:  
+    [PBS Article](https://www.pbs.org/newshour/nation/nyc-will-require-covid-19-vaccines-or-weekly-testing-for-city-workers)
 
 
 ## TOOLS I USE
