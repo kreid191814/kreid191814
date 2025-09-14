@@ -23,13 +23,17 @@ Qualified Health Plan Enrollment Experience Survey
 
 <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40"/> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" alt="SAS Logo" width="40" height="40"/>
-
-<img src="https://img.icons8.com/ios-filled/50/000000/salesforce.png" alt="Salesforce" width="40"/>
-
 <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40"/> 
 
-<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" width="40"/>  
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>
+
+
+
+
+
+
 
 
 
