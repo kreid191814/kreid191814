@@ -3,7 +3,10 @@ Hi there, I'm Kayla 👋🏿 👩🏿‍💻 Health IT Enthusiast | Bridging Hea
 <p align="center">
   <img src="Shutterstock_2603055635-2.png" width="700" height="400"/>
 </p>
-I'm a experienced Program Manager and Senior Data Analyst passionate about Health IT. I bridge the gap between healthcare challenges and technology solutions—leading programs, streamlining workflows, and delivering real-world impact through code and coordination. I have previously worked on a project with the Center for Medicaid & Medicare services utilizing AWS Cloud Infrastructure and I'm currently working on a major Electronic Health Record Implementation project with Oracle Health and Indian Health Services called PATH EHR.
+I'm a IT professional with a strong passion for solving real-world problems through technology. I specialize in system implementation, automation, and infrastructure support and i'm always exploring new ways to optimize workflows, enhance security and deliver reliable tech solutions.
+
+## CURRENT ROLE
+I'm currently leading the technical implementation of a new Electronic Health Record system at a healthcare organization. This includes coordinating across departments, configuring system environments, managing data migration, and ensuring secure, compliant deployment. I'm gaining valuable hands-on experience in health IT, project management and cross functional collaboration.
 
 ## PROJECTS
 PATH EHR  
