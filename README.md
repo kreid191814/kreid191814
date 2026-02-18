@@ -3,7 +3,7 @@ Hi there, I'm Kayla 👋🏿 👩🏿‍💻 Health IT Enthusiast | Bridging Hea
 <p align="center">
   <img src="Shutterstock_2603055635-2.png" width="700" height="400"/>
 </p>
-I'm a IT professional with a strong passion for solving real-world problems through technology. I specialize in system implementation, automation, and infrastructure support and i'm always exploring new ways to optimize workflows, enhance security and deliver reliable tech solutions.
+I'm a IT professional with a strong passion for solving real-world problems through technology. I specialize in system implementation, automation, and infrastructure support and I'm always exploring new ways to optimize workflows, enhance security and deliver reliable tech solutions.
 
 ## CURRENT ROLE
 I'm currently leading the technical implementation of a new Electronic Health Record system at a healthcare organization. This includes coordinating across departments, configuring system environments, managing data migration, and ensuring secure, compliant deployment. I'm gaining valuable hands-on experience in health IT, project management and cross functional collaboration.
