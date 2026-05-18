@@ -3,11 +3,39 @@ Hi there, I'm Kayla 👋🏿 👩🏿‍💻 Health IT Enthusiast | Bridging Hea
 <p align="center">
   <img src="Shutterstock_2603055635-2.png" width="700" height="400"/>
 </p>
-I'm a IT professional with a strong passion for solving real-world problems through technology. I specialize in system implementation, automation, and infrastructure support and I'm always exploring new ways to optimize workflows, enhance security and deliver reliable tech solutions.
+# Hi, I'm Kayla Reid 👋
 
-## CURRENT ROLE
-I'm currently leading the technical implementation of a new Electronic Health Record system at a healthcare organization. This includes coordinating across departments, configuring system environments, managing data migration, and ensuring secure, compliant deployment. I'm gaining valuable hands-on experience in health IT, project management and cross functional collaboration.
+Healthcare IT and cloud-focused technical professional with experience supporting federal healthcare modernization initiatives, cloud-enabled analytics, healthcare interoperability, and operational workflow optimization.
 
+Currently expanding my skills in:
+- AWS cloud technologies
+- AI-enabled workflow automation
+- Amazon Lex conversational AI
+- API integrations & JSON workflows
+- Healthcare systems modernization
+- Cloud analytics & reporting
+
+My background includes:
+- Healthcare interoperability (FHIR, HL7, QRDA/XML)
+- SQL-based data validation and reporting
+- Power BI & Tableau analytics
+- Agile/SDLC environments
+- Federal healthcare modernization initiatives
+- Cloud and integration support within enterprise healthcare systems
+
+I'm passionate about the intersection of:
+☁️ Cloud Modernization  
+🤖 AI Workflow Automation  
+🏥 Healthcare Technology  
+📊 Operational Analytics  
+🔗 Systems Integration  
+
+Currently building GitHub projects focused on:
+- AI healthcare chatbot concepts
+- API/JSON workflow automation
+- Cloud-enabled healthcare reporting
+- AI-assisted operational workflows
+  
 ## PROJECTS
 PATH EHR  
   -[path ehr](https://github.com/kreid191814/path-ehr-)
