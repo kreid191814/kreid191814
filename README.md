@@ -3,7 +3,6 @@ Hi there, I'm Kayla 👋🏿 👩🏿‍💻 ☁️ Cloud Engineer | Healthcare 
 <p align="center">
   <img src="Shutterstock_2603055635-2.png" width="700" height="400"/>
 </p>
-# 
 
 Healthcare Technology Professional with 10+ years of experience supporting enterprise healthcare modernization, cloud technologies, data integration, and technical program delivery across federal healthcare programs.
 
