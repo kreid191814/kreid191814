@@ -1,19 +1,27 @@
 ## ABOUT ME
-Hi there, I'm Kayla 👋🏿 👩🏿‍💻 Health IT Enthusiast | Bridging Healthcare & Technology 
+Hi there, I'm Kayla 👋🏿 👩🏿‍💻 ☁️ Cloud Engineer | Healthcare Technology | AI & Systems Modernization 
 <p align="center">
   <img src="Shutterstock_2603055635-2.png" width="700" height="400"/>
 </p>
 # Hi, I'm Kayla Reid 👋
 
-Healthcare IT and cloud-focused technical professional with experience supporting federal healthcare modernization initiatives, cloud-enabled analytics, healthcare interoperability, and operational workflow optimization.
+Healthcare Technology Professional with 10+ years of experience supporting enterprise healthcare modernization, cloud technologies, data integration, and technical program delivery across federal healthcare programs.
 
-Currently expanding my skills in:
-- AWS cloud technologies
-- AI-enabled workflow automation
-- Amazon Lex conversational AI
-- API integrations & JSON workflows
-- Healthcare systems modernization
-- Cloud analytics & reporting
+Recent hands-on experience includes designing and deploying AWS cloud infrastructure using custom Amazon VPC networking, EC2, Linux, Apache, and GitHub documentation.
+
+## Featured Skills
+
+☁️ AWS Cloud Infrastructure
+
+🏥 Healthcare Modernization
+
+📊 Data Analytics
+
+🤖 AI & Automation
+
+🔗 Systems Integration
+
+⚙️ Technical Program Delivery
 
 My background includes:
 - Healthcare interoperability (FHIR, HL7, QRDA/XML)
@@ -29,31 +37,32 @@ I'm passionate about the intersection of:
 🏥 Healthcare Technology  
 📊 Operational Analytics  
 🔗 Systems Integration  
-
-Currently building GitHub projects focused on:
-- AI healthcare chatbot concepts
-- API/JSON workflow automation
-- Cloud-enabled healthcare reporting
-- AI-assisted operational workflows
   
-## PROJECTS
-PATH EHR  
-  -[path ehr](https://github.com/kreid191814/path-ehr-)
+## FEATURED PROJECTS
+These projects demonstrate hands-on experience across AWS cloud infrastructure, healthcare modernization, systems integration, automation, and data analytics.
 
-Practice Improvement and Measures Management Support (PIMMS)  
-  -[pimms_project](https://github.com/kreid191814/pimms_project)
+### [Cloud Production Tracker](https://github.com/kreid191814/cloud-production-tracker)
+**AWS | Amazon VPC | EC2 | Linux | Apache | GitHub**
+Designed and deployed a custom AWS cloud infrastructure using a custom Amazon VPC, public and private subnets,EC2, Security Groups,Apache, and GitHub documentation.
 
-Qualified Health Plan Enrollment Experience Survey  
-  -[cms-qhp-survey-project](https://github.com/kreid191814/cms-qhp-survey-project)   
-Visit the live project at: [https://qhpsurvey.cms.gov](https://qhpsurvey.cms.gov)
+### [PATH EHR](https://github.com/kreid191814/path-ehr-)
+**Oracle Health | Healthcare Interoperability | FHIR | Jira**
+Healthcare modernization project focused on Oracle Health EHR workflows, interoperability, and implementation planning.
 
-Vaccine Or Test  
-  -[Vaccine_Or_Test-Project](https://github.com/kreid191814/Vaccine_Or_Test-Project)  
-  NYC Vaccine Mandate News:  
-    [PBS Article](https://www.pbs.org/newshour/nation/nyc-will-require-covid-19-vaccines-or-weekly-testing-for-city-workers)
+### [Practice Improvement and Measures Management Support (PIMMS)](https://github.com/kreid191814/pimms_project)
+**MICROSOFT EXCEL | POWER BI**
+Healthcare quality improvement and reporting project supporting federal program initiatives.
 
+### [Qualified Health Plan Enrollment Experience Survey](https://github.com/kreid191814/cms-qhp-survey-project)
+**AWS | AMAZON VPC | EC2 | JIRA | CONFLUENCE**
+CMS healthcare analytics project supporting survey reporting and enrollment experience analysis.
 
-## TOOLS I USE
+**Live Application:** https://qhpsurvey.cms.gov
+
+### [Vaccine or Test](https://github.com/kreid191814/Vaccine_Or_Test-Project)
+NYC public health analytics project supporting COVID-19 vaccine and testing initiatives.
+
+## TECHNOLOGIES & TOOLS
 <div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; max-width: 180px; margin: auto;">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="40" />
@@ -65,8 +74,7 @@ Vaccine Or Test
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" />
 </div>
 
-## CONNECT WITH ME
-[LinkedIn](https://www.linkedin.com/in/kayla-r-8393b9151/)
+
 
 
 
