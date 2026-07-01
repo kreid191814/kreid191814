@@ -31,6 +31,7 @@ My background includes:
 - Cloud and integration support within enterprise healthcare systems
 
 I'm passionate about the intersection of:
+
 ☁️ Cloud Modernization  
 🤖 AI Workflow Automation  
 🏥 Healthcare Technology  
@@ -70,8 +71,7 @@ NYC public health analytics project supporting COVID-19 vaccine and testing init
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40" />
   
   <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" />
-</div>
+
 
 
 
