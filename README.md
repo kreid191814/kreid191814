@@ -43,23 +43,28 @@ These projects demonstrate hands-on experience across AWS cloud infrastructure, 
 
 ### [Cloud Production Tracker](https://github.com/kreid191814/cloud-production-tracker)
 **AWS | Amazon VPC | EC2 | Linux | Apache | GitHub**
+
 Designed and deployed a custom AWS cloud infrastructure using a custom Amazon VPC, public and private subnets,EC2, Security Groups,Apache, and GitHub documentation.
 
 ### [PATH EHR](https://github.com/kreid191814/path-ehr-)
 **Oracle Health | Healthcare Interoperability | FHIR | Jira**
+
 Healthcare modernization project focused on Oracle Health EHR workflows, interoperability, and implementation planning.
 
 ### [Practice Improvement and Measures Management Support (PIMMS)](https://github.com/kreid191814/pimms_project)
 **MICROSOFT EXCEL | POWER BI**
+
 Healthcare quality improvement and reporting project supporting federal program initiatives.
 
 ### [Qualified Health Plan Enrollment Experience Survey](https://github.com/kreid191814/cms-qhp-survey-project)
 **AWS | AMAZON VPC | EC2 | JIRA | CONFLUENCE**
+
 CMS healthcare analytics project supporting survey reporting and enrollment experience analysis.
 
 **Live Application:** https://qhpsurvey.cms.gov
 
 ### [Vaccine or Test](https://github.com/kreid191814/Vaccine_Or_Test-Project)
+
 NYC public health analytics project supporting COVID-19 vaccine and testing initiatives.
 
 ## TECHNOLOGIES & TOOLS
